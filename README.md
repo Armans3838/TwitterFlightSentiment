@@ -4,7 +4,7 @@ Arman Siddiqui
 ## Overview
 Goals for this project:
 Complete data assessment of dataset and outline findings
-- Note: this is an explanation of your understanding of the data, calling out any issues or obstacles in the quality or structure of the data. This will be a combination of written word and numerical information. This can be included as a separate document or in the appendix of your presentation.\
+- Note: this is an explanation of your understanding of the data, calling out any issues or obstacles in the quality or structure of the data. This will be a combination of written word and numerical information. This can be included as a separate document or in the appendix of your presentation.\\
 Analyze data set to produce insight report
 - Note: analysis plan and methods of enquiry are at the student’s discretion. This is designed to be a hands-on application of the analysis and data science tools you have learned during your program.
 The output of this section of the homework will be; a) the contents of the Insight report (i.e. what you have learned from the data and analysis) and b) the action list of steps you took – including any code or models used.
