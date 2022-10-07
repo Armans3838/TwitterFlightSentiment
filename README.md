@@ -10,8 +10,11 @@ Note the following insights for the presentation:
 
 ## Inspiration for presentation/deeper breakdown
 - background on flights and cancelations
-- crappy data 
+    - look at the timeframe of the data and outside events (weather)
+- crappy data and troubles found
+    - nulled out categories, etc.
 - sentiment analysis
+    - overall negative sentiment
 - how did people tweet?
 - overall sentiment
 - reasons per airline
